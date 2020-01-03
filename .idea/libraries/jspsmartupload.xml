@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jspsmartupload">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jspsmartupload.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jspsmartupload.jar!/" />
+    </SOURCES>
+  </library>
+</component>

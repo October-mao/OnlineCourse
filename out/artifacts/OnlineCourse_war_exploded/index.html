@@ -1,0 +1,76 @@
+<html> 
+<head><title>全选与反选</title>
+<script language="javascript"> 
+
+//选中全选按钮，下面的checkbox全部选中 
+var selAll = document.getElementById("selAll"); 
+function selectAll() 
+{ 
+  var obj = document.getElementsByName("checkAll"); 
+  if(document.getElementById("selAll").checked == false) 
+  { 
+  for(var i=0; i<obj.length; i++) 
+  { 
+    obj[i].checked=false; 
+  } 
+  }else 
+  { 
+  for(var i=0; i<obj.length; i++) 
+  {   
+    obj[i].checked=true; 
+  } 
+  } 
+  
+}
+//当选中所有的时候，全选按钮会勾上 
+function setSelectAll() 
+{ 
+var obj=document.getElementsByName("checkAll"); 
+var count = obj.length; 
+var selectCount = 0; 
+
+for(var i = 0; i < count; i++) 
+{ 
+if(obj[i].checked == true) 
+{ 
+selectCount++; 
+} 
+} 
+if(count == selectCount) 
+{ 
+document.all.selAll.checked = true; 
+} 
+else 
+{ 
+document.all.selAll.checked = false; 
+} 
+} 
+
+//反选按钮 
+function notSelectAll() { 
+var checkboxs=document.getElementsByName("checkAll"); 
+for (var i=0;i<checkboxs.length;i++) { 
+  var e=checkboxs[i]; 
+  e.checked=!e.checked; 
+  setSelectAll(); 
+} 
+} 
+
+</script> 
+</head>
+<body> 
+<center> 
+<input type="checkbox" id="selAll" onclick="selectAll();" />全选 
+<input type="checkbox" id="inverse" onclick="notSelectAll();" />反选 
+<div id="allcheck"> 
+<input type="checkbox" name="checkAll" id="checkAll" onclick="setSelectAll();"/>足球<br> 
+<input type="checkbox" name="checkAll" id="checkAll" onclick="setSelectAll();"/>篮球<br> 
+<input type="checkbox" name="checkAll" id="checkAll" onclick="setSelectAll();"/>跑步<br> 
+<input type="checkbox" name="checkAll" id="checkAll" onclick="setSelectAll();"/>登山<br> 
+<input type="checkbox" name="checkAll" id="checkAll" onclick="setSelectAll();"/>唱歌<br> 
+<input type="checkbox" name="checkAll" id="checkAll" onclick="setSelectAll();"/>跳舞<br> 
+</div> 
+</center> 
+</body> 
+</html> 
+

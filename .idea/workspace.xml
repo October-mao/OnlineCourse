@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="OnlineCourse:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="042ad268-b579-49fa-80c0-50ca019241b7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1Un3nrlciQaPpAm7eFNwU3cJDWN" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib/jspsmartupload.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\com.maomao.work\OnlineCourse\web\WEB-INF\lib" />
+      <recent name="D:\com.maomao.work\OnlineCourse\web\WEB-INF\lib\jspsmartupload.jar!\com\jspsmart\upload" />
+      <recent name="D:\com.maomao.work\OnlineCourse\web\images" />
+      <recent name="D:\com.maomao.work\OnlineCourse\web\img" />
+      <recent name="D:\com.maomao.work\OnlineCourse\web" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\com.maomao.work\OnlineCourse\web\images" />
+      <recent name="D:\com.maomao.work\OnlineCourse\web" />
+      <recent name="D:\com.maomao.work\OnlineCourse\web\tea" />
+      <recent name="D:\com.maomao.work\OnlineCourse\web\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.27" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.27" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="OnlineCourse:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/OnlineCourse_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_27_OnlineCourse" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59095" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="OnlineCourse:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="042ad268-b579-49fa-80c0-50ca019241b7" name="Default Changelist" comment="" />
+      <created>1575978701638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575978701638</updated>
+      <workItem from="1575978707875" duration="707000" />
+      <workItem from="1575979965171" duration="4890000" />
+      <workItem from="1575986263229" duration="15000" />
+      <workItem from="1575986498365" duration="129000" />
+      <workItem from="1575987511883" duration="58000" />
+      <workItem from="1576028521409" duration="624000" />
+      <workItem from="1576060581025" duration="3445000" />
+      <workItem from="1576064076369" duration="4937000" />
+      <workItem from="1576070196929" duration="286000" />
+      <workItem from="1576077584240" duration="192000" />
+      <workItem from="1576135945786" duration="796000" />
+      <workItem from="1576141201215" duration="1147000" />
+      <workItem from="1576163125964" duration="13179000" />
+      <workItem from="1576176401189" duration="637000" />
+      <workItem from="1576177093706" duration="543000" />
+      <workItem from="1576202571369" duration="3807000" />
+      <workItem from="1576225492567" duration="2906000" />
+      <workItem from="1576228762946" duration="12000" />
+      <workItem from="1576229111880" duration="1178000" />
+      <workItem from="1576233926813" duration="12079000" />
+      <workItem from="1576329958121" duration="704000" />
+      <workItem from="1576395378541" duration="1016000" />
+      <workItem from="1576417052656" duration="256000" />
+      <workItem from="1576422366054" duration="241000" />
+      <workItem from="1576471339508" duration="57000" />
+      <workItem from="1576471876877" duration="836000" />
+      <workItem from="1576473561587" duration="2010000" />
+      <workItem from="1576485361455" duration="1838000" />
+      <workItem from="1576649500662" duration="4598000" />
+      <workItem from="1576736863807" duration="84000" />
+      <workItem from="1576828810013" duration="1738000" />
+      <workItem from="1577418768399" duration="582000" />
+      <workItem from="1577422398203" duration="1226000" />
+      <workItem from="1577425830953" duration="122000" />
+      <workItem from="1577669489510" duration="3975000" />
+      <workItem from="1577706463334" duration="24000" />
+      <workItem from="1577710681151" duration="55000" />
+      <workItem from="1577711282310" duration="166000" />
+      <workItem from="1577713234940" duration="567000" />
+      <workItem from="1577714112422" duration="460000" />
+      <workItem from="1577969445826" duration="162000" />
+      <workItem from="1578016904530" duration="9000" />
+      <workItem from="1578017430725" duration="695000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OnlineCourse$Tomcat_9_0_27.ic" NAME="Tomcat 9.0.27 Coverage Results" MODIFIED="1576227664905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

@@ -7,59 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="042ad268-b579-49fa-80c0-50ca019241b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/bean/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/bean/Course.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/bean/QueryResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/bean/QueryResult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/bean/SC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/bean/SC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/bean/SedCou.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/bean/SedCou.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/bean/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/bean/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/bean/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/bean/Teacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/dao/DaoCou.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/dao/DaoCou.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/dao/DaoQuery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/dao/DaoQuery.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/dao/DaoSc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/dao/DaoSc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/dao/DaoStu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/dao/DaoStu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/dao/DaoTea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/dao/DaoTea.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/cou/serDeleteCou.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/cou/serDeleteCou.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/cou/serDoInsertCou.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/cou/serDoInsertCou.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/cou/serDoUpdateCou.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/cou/serDoUpdateCou.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/sc/serDeleteSc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/sc/serDeleteSc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/sc/serDoUpdateClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/sc/serDoUpdateClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/sc/serInsertSc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/sc/serInsertSc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/sc/serQuerySc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/sc/serQuerySc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/sc/serUpdateClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/sc/serUpdateClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/serDoLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/serDoLogin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/serDoLogout.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/serDoLogout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/stu/serDeleteStu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/stu/serDeleteStu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/stu/serDoUpdateStu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/stu/serDoUpdateStu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/stu/serInsertStu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/servlet/stu/serInsertStu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/utils/DBUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/OnlineCourse_war_exploded/WEB-INF/classes/com/mao/utils/DBUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/bean/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/bean/Course.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/bean/QueryResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/bean/QueryResult.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/bean/SC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/bean/SC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/bean/SedCou.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/bean/SedCou.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/bean/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/bean/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/bean/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/bean/Teacher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/dao/DaoCou.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/dao/DaoCou.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/dao/DaoQuery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/dao/DaoQuery.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/dao/DaoSc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/dao/DaoSc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/dao/DaoStu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/dao/DaoStu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/dao/DaoTea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/dao/DaoTea.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/cou/serDeleteCou.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/cou/serDeleteCou.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/cou/serDoInsertCou.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/cou/serDoInsertCou.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/cou/serDoUpdateCou.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/cou/serDoUpdateCou.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/sc/serDeleteSc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/sc/serDeleteSc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/sc/serDoUpdateClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/sc/serDoUpdateClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/sc/serInsertSc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/sc/serInsertSc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/sc/serQuerySc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/sc/serQuerySc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/sc/serUpdateClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/sc/serUpdateClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/serDoLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/serDoLogin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/serDoLogout.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/serDoLogout.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/stu/serDeleteStu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/stu/serDeleteStu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/stu/serDoUpdateStu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/stu/serDoUpdateStu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/stu/serInsertStu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/servlet/stu/serInsertStu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/utils/DBUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OnlineCourse/com/mao/utils/DBUtils.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +51,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib/jspsmartupload.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Demo_JDBC_1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -114,21 +62,21 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\com.maomao.work\OnlineCourse\web\images" />
+      <recent name="D:\com.maomao.work\OnlineCourse\web" />
+      <recent name="D:\com.maomao.work\OnlineCourse\web\tea" />
+      <recent name="D:\com.maomao.work\OnlineCourse\web\img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\com.maomao.work\OnlineCourse\web\WEB-INF\lib" />
       <recent name="D:\com.maomao.work\OnlineCourse\web\WEB-INF\lib\jspsmartupload.jar!\com\jspsmart\upload" />
       <recent name="D:\com.maomao.work\OnlineCourse\web\images" />
       <recent name="D:\com.maomao.work\OnlineCourse\web\img" />
       <recent name="D:\com.maomao.work\OnlineCourse\web" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\com.maomao.work\OnlineCourse\web\images" />
-      <recent name="D:\com.maomao.work\OnlineCourse\web" />
-      <recent name="D:\com.maomao.work\OnlineCourse\web\tea" />
-      <recent name="D:\com.maomao.work\OnlineCourse\web\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -271,6 +219,12 @@
       <workItem from="1578017430725" duration="695000" />
       <workItem from="1578022915862" duration="127000" />
       <workItem from="1578135157276" duration="281000" />
+      <workItem from="1578320202465" duration="237000" />
+      <workItem from="1578358044403" duration="14000" />
+      <workItem from="1578921755241" duration="741000" />
+      <workItem from="1580974601528" duration="32000" />
+      <workItem from="1581092115601" duration="1333000" />
+      <workItem from="1581138296526" duration="734000" />
     </task>
     <servers />
   </component>

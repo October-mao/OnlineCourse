@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$USER_HOME$/Desktop/组件应用操作步骤/文件上传与下载/upload.html" charset="GBK" />
     <file url="file://$PROJECT_DIR$/web/index.html" charset="GBK" />
     <file url="file://$PROJECT_DIR$/web/js/setDate.js" charset="GBK" />
     <file url="file://$PROJECT_DIR$/web/style.css" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

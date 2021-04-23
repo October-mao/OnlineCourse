@@ -10,4 +10,4 @@
 
 老师：添加删除修改查询课程，学生
 
-![Image text](https://raw.githubusercontent.com/October-mao/OnlineCourse/master/img-folder/index.png)
+[Image text](https://raw.githubusercontent.com/October-mao/OnlineCourse/master/img-folder/index.png)
